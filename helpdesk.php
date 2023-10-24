@@ -142,7 +142,7 @@
         }
 
         .Banner {
-        background: url("../images/help.jpg") no-repeat;
+        background: url("./assets/images/help.jpg") no-repeat;
         background-size: cover;
         background-position: center;
         min-height: 750px;
